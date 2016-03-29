@@ -6,7 +6,7 @@ var server = http.createServer(function(req,res){
 
 
     
-<p style="color:lightgreen" > Heroku is a cloud Platform-as-a-Service (PaaS)  Heroku was acquired by Salesforce.com in 2010. It supports programming languages like Java, Node.js, Scala, Clojure, Python,  PHP. </p>
+<p  > Heroku is a cloud Platform-as-a-Service (PaaS)  Heroku was acquired by Salesforce.com in 2010. It supports programming languages like Java, Node.js, Scala, Clojure, Python,  PHP. </p>
 ');
                                
                                });
